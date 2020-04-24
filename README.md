@@ -3,6 +3,9 @@
 Licence: Apache 2.0<br />
 Created by: VCoding<br />
 <br />
+![Image showing the software interface](https://i.imgur.com/4YyxqZZ.png "Image showing the software interface")
+<br />
+<br />
 **You need to have the following libraries installed (for python 3):**
 - PyQt5
 - Sys
