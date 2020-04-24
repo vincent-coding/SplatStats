@@ -1,7 +1,7 @@
 # SplatStats
 
 Licence: Apache 2.0<br />
-Created by: VCoding
+Created by: VCoding<br />
 <br />
 **You need to have the following libraries installed (for python 3):**
 - PyQt5
