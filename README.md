@@ -1,8 +1,8 @@
 # SplatStats
 
-Licence: Apache 2.0
+Licence: Apache 2.0<br />
 Created by: VCoding
-
+<br />
 **You need to have the following libraries installed (for python 3):**
 - PyQt5
 - Sys
@@ -16,5 +16,5 @@ Created by: VCoding
 - main.py
 - tcpgecko.py
 
-**Once this is done, all you have to do is launch a terminal (or cmd) and execute the following command:**
+**Once this is done, all you have to do is launch a terminal (or cmd) and execute the following command:**<br />
 `python3 main.py`
